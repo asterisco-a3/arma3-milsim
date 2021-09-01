@@ -3,8 +3,9 @@ Repositório de documentos diversos para serem utilizados em intruções em clan
 
 Este é um repositório multimídia, podendo conter textos, imagens, vídeos, links e arquivos em geral em qualquer formato. Todos documentos aqui publicados deverão possuir metadados que identifiquem e facilitem a organização e a busca de seus conteúdos. É obrigatória a declaração de autoria dos documentos, cabendo aos autores a escolha de seu epíteto. Em caso de coautoria ou autoria de coletivo, devem constar os epítetos de todos os autores ou o nome do coletivo/clan.
 
+Todos os documentos aqui publicados estão sob a licença _Creative Commons Attribution-ShareAlike 4.0 International License_. Esclarecimentos a respeito da licença podem ser encontrados [aqui][explicacao]
 
-e/ou do nome do clan originário. Sugere-se que os autores declarem o tipo de licença de uso do conteúdo.
+[explicacao]: https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR
 
 ---
 
