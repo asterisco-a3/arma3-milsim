@@ -1,3 +1,10 @@
+# arma3-milsim
+Repositório de documentos diversos para serem utilizados em intruções em clans de Arma3 praticantes de MilSim
+
+Este é um repositório multimídia, podendo conter textos, imagens, vídeos, links e arquivos em geral em qualquer formato. Todos documentos aqui publicados deverão possuir metadados que identifiquem e facilitem a organização e a busca de seus conteúdos. É obrigatória a declaração de autoria dos documentos e/ou do nome do clan originário. Sugere-se que os autores declarem o tipo de licença de uso do conteúdo.
+
+---
+
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
@@ -12,10 +19,3 @@ Este trabalho está sob a licença
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 [pt-br]: https://creativecommons.org/licenses/by-sa/4.0/legalcode.pt
-
----
-
-# arma3-milsim
-Repositório de documentos diversos para serem utilizados em intruções em clans de Arma3 praticantes de MilSim
-
-Este é um repositório multimídia, podendo conter textos, imagens, vídeos, links e arquivos em geral em qualquer formato. Todos documentos aqui publicados deverão possuir metadados que identifiquem e facilitem a organização e a busca de seus conteúdos. É obrigatória a declaração de autoria dos documentos e/ou do nome do clan originário. Sugere-se que os autores declarem o tipo de licença de uso do conteúdo.
