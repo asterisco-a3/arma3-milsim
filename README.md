@@ -2,6 +2,7 @@ Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
 Este trabalho está sob a licença
 [Atribuição-CompartilhaIgual 4.0 Internacional da Creative Commons][pt-br].
 
