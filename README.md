@@ -3,7 +3,7 @@ Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 Este trabalho está sob a licença
-[Creative Commons Attribution-ShareAlike 4.0 International License][pt-br].
+[Atribuição-CompartilhaIgual 4.0 Internacional da Creative Commons][pt-br].
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
